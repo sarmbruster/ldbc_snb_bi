@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q9. Top thread initiators
 /*
 :params { startDate: datetime('2011-10-01'), endDate: datetime('2011-10-15') }

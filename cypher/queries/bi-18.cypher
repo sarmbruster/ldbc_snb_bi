@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q18. Friend recommendation
 /*
 :params { tag: 'Frank_Sinatra' }

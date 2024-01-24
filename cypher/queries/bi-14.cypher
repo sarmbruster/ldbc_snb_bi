@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q14. International dialog
 /*
 :params { country1: 'Chile', country2: 'Argentina' }

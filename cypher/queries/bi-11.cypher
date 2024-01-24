@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q11. Friend triangles
 /*
 :params {

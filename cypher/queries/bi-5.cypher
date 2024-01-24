@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q5. Most active Posters of a given Topic
 /*
 :params { tag: 'Abbas_I_of_Persia' }

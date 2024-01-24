@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q2. Tag evolution
 /*
 :params { date: datetime('2012-06-01'), tagClass: 'MusicalArtist' }

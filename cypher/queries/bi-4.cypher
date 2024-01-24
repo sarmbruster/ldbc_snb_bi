@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q4. Top message creators in a country
 /*
 :params { date: datetime('2010-01-29') }

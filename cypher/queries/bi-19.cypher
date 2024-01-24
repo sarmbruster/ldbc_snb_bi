@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q19. Interaction path between cities
 // Requires the Neo4j Graph Data Science library
 /*

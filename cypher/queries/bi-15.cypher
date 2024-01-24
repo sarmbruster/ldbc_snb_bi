@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q15. Weighted interaction paths
 // Requires the Neo4j Graph Data Science library
 /*

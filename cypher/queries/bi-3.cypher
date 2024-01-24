@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q3. Popular topics in a country
 /*
 :params { tagClass: 'MusicalArtist', country: 'Burma' }

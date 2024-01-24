@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q17. Information propagation analysis
 /*
 :params { tag: 'Slavoj_Žižek', delta: 4 }

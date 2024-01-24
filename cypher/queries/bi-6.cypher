@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q6. Most authoritative users on a given topic
 /*
 :params { tag: 'Arnold_Schwarzenegger' }

@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q12. How many persons have a given number of posts
 /*
 :params {

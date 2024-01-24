@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q20. Recruitment
 // Requires the Neo4j Graph Data Science library
 /*

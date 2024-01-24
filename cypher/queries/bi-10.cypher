@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q10. Experts in social circle
 // Requires the Neo4j APOC library
 /*

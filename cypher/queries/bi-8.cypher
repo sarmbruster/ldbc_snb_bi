@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q8. Central Person for a Tag
 /*
 :params { tag: 'Che_Guevara', startDate: datetime('2011-07-20'), endDate: datetime('2011-07-25') }

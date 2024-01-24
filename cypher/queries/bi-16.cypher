@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q16. Fake news detection
 // These parameters return a 'false positive' as the maxKnowsLimit is set too high.
 /*

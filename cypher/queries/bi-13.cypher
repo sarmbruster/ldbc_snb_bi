@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q13. Zombies in a country
 /*
 :params { country: 'France', endDate: datetime('2013-01-01') }

@@ -1,3 +1,4 @@
+CYPHER runtime=parallel
 // Q7. Related Topics
 /*
 :params { tag: 'Enrique_Iglesias' }
